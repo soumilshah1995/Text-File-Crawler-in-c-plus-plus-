@@ -1,0 +1,6 @@
+C++ programming language :
+Although there are a number of static analysis programs already available
+for C++ Facebook found them mostly unsuitable for its own needs. Many
+were too slow or weren't updated to understand C++11 which Facebook is in
+the process of adopting. Flint reviews code and flags any potential
+issues in Facebook's code review system, called Phabricator.
